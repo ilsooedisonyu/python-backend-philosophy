@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./assets/social-previews/python-backend-philosophy.jpg"
+       width="100%"
+       alt="Python Backend Philosophy Repository">
+</p>
+
 # The Python & Backend Philosophy
 
 **How I approach software engineering.**
@@ -13,7 +19,7 @@ Documentation-First Development · Architecture Before Implementation · AI-Assi
 
 **What problem it solves.** Most project failures are not caused by technology limitations. They are caused by unclear requirements, insufficient architecture, poor documentation, a lack of systems thinking, and excessive complexity. This repository describes the method that answers them.
 
-**How it fits the ecosystem.** It is the software-engineering companion to [Engineering Philosophy™](https://www.yugeniuslab.com/engineering-philosopher/), and the method behind [yu-genius-lab-backend](https://github.com/USERNAME/yu-genius-lab-backend). The full essay is at [yugeniuslab.com/publications/python-backend-philosophy](https://www.yugeniuslab.com/publications/python-backend-philosophy/).
+**How it fits the ecosystem.** It is the software-engineering companion to [Engineering Philosophy™](https://www.yugeniuslab.com/engineering-philosopher/), and the method behind [yu-genius-lab-backend](https://github.com/ilsooedisonyu/yu-genius-lab-backend). The full essay is at [yugeniuslab.com/publications/python-backend-philosophy](https://www.yugeniuslab.com/publications/python-backend-philosophy/).
 
 ## Identity
 
